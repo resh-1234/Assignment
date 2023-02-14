@@ -1,0 +1,39 @@
+img{
+    border-radius: 10px;
+}
+h1{
+    color: rgb(255, 0, 153);
+    margin: 25px;
+    background: url(./pic.jpg);
+    background-size: cover;
+}
+.main{
+    height: 100px;
+    justify-content: center;
+    display: flex;
+    font-size: x-large;
+    background: url(./pic.jpg);
+    background-size: cover;
+
+}
+.hero{
+    background: url(./pic.jpg);
+    background-size: cover;
+
+}
+h2{
+    color: royalblue;
+    background: url(./pic.jpg);
+    background-size: cover;
+
+}
+h3{
+    color:rgb(255, 60, 0)
+    background: url(./pic.jpg);
+    background-size: cover;
+
+}
+img{
+    max-height: 10%;
+    max-width: 20%;
+}
